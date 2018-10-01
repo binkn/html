@@ -1,4 +1,4 @@
-# HTML training
+# HTML training (16 days)
 
 ## Tutorials
 
