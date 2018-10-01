@@ -2,7 +2,7 @@
 
 ## Tutorials
 
-1. [Introduction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+1. [Introduction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) (2 days)
 
     * [Concept and syntax]()
     * [Attributes]()
@@ -11,32 +11,32 @@
     * [Including special characters in HTML]()
     * [HTML comments]()
 
-2. [In the head - Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+2. [In the head - Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML) (2 days)
 
     * [Adding a title]()
     * [Metadata: the `<meta>` element]()
     * [Favicon - custom icons to your site]()
     * [Applying CSS and JavaScript to HTML]()
     * [Setting the primary language of the document]()
-3. [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+3. [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure) (1 day)
 
-4. [Semantic elements](https://developer.mozilla.org/en-US/docs/Glossary/semantics)
+4. [Semantic elements](https://developer.mozilla.org/en-US/docs/Glossary/semantics) (1 day)
 
-5. [Element content categories](https://html.spec.whatwg.org/multipage/indices.html#element-content-categories)
+5. [Element content categories](https://html.spec.whatwg.org/multipage/indices.html#element-content-categories) (1 day)
 
-6. [HTML Text]()
+6. [HTML Text](1 day) 
     * [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
     * [Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
     * [Text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 
-7. [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
+7. [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding) (2 days)
     * [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
     * [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
     * [From object to iframe — other embedding technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
     * [Vector graphics to the Web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
     * [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
-8. [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
+8. [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms) (2 days)
     * [Structure an HTML form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
     * [Native form widgets](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/The_native_form_widgets)
     * [Custom form widgets](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets)
@@ -48,19 +48,19 @@
     * [Basic Styling HTML forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Styling_HTML_forms)
     * [Advanced Styling for HTML forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Advanced_styling_for_HTML_forms)
 
-6. [Attributes](https://html.spec.whatwg.org/multipage/indices.html#attributes-3)
+6. [Attributes](https://html.spec.whatwg.org/multipage/indices.html#attributes-3) (1 day)
 
-7. [Events](https://html.spec.whatwg.org/multipage/indices.html#events-2)
+7. [Events](https://html.spec.whatwg.org/multipage/indices.html#events-2) (1 day)
 
-8. [Box element]()
+8. [Box element](1 day)
 
     * [Block elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
     * [Inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
 
-## Debug
+## Debug (0.5 day)
 * [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 
-## Markup Validation Service
+## Markup Validation Service (0.5 day)
 
 * [HTML inspector](https://github.com/philipwalton/html-inspector)
 
