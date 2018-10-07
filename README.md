@@ -1,4 +1,5 @@
 # HTML training (16 days)
+Please read detail at [here](https://docs.google.com/document/d/1klWPIHYkwWLmni1iP_PI_-7wZfUOjcufd9RfZE3wxZc/edit#heading=h.j3e0zn6ux3ig)
 
 ## Tutorials
 
